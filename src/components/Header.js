@@ -22,7 +22,7 @@ const Header = () => {
                     <ul>
                         <div className="nav-logo"><img src={logo} alt=""/></div>
                         <li><button>About</button></li>
-                        <li><button>Carrers</button></li>
+                        <li><button>Careers</button></li>
                         <li><button>Events</button></li>
                         <li><button>Products</button></li>
                         <li><button>Support</button></li>
